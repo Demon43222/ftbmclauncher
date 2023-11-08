@@ -853,12 +853,12 @@
       ]
     },
     {
-      "id": "WesterosCraft-Demo-1.12.2",
-      "name": "WesterosCraft-Demo (Minecraft 1.12.2)",
-      "description": "WesterosCraft-Demo Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
+      "id": "FtbMC-Demo-1.12.2",
+      "name": "FtbMC-Demo (Minecraft 1.12.2)",
+      "description": "FtbMC-Demo Running Minecraft 1.12.2 (Forge v14.23.5.2859)",
       "icon": "https://helios-files.geekcorner.eu.org/servers/WesterosCraft-Demo-1.12.2/WesterosCraft-Demo-1.12.2.png",
       "version": "2.1.6",
-      "address": "mc.westeroscraft.com:25565",
+      "address": "ftbmc.eu:25565",
       "minecraftVersion": "1.12.2",
       "discord": {
         "shortId": "WesterosCraft Demo",
