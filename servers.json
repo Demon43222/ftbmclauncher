@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "rss": "https://www.nasa.gov/feeds/iotd-feed/",
+  "rss": "https://www.sltrib.com/rss/feed/?sec=/News/Utah/&level=1",
   "discord": {
     "clientId": "1086936373057040395",
     "smallImageText": "Change me through Nebula",
