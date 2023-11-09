@@ -1,8 +1,3 @@
-This is a fork of the official Helios Launcher by @dscalzi, this launcher allow crak user<br>
-To do that I just needed to give the jar an invalid token and the uuid.
-
-<p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="Logo"></p>
-
 <h1 align="center">Cracked Helios Launcher</h1>
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
