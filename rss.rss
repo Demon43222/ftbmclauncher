@@ -5,12 +5,12 @@
         <link>http://www.yourdomain.com</link>
         <description>The latest product catalog feed of sample customer.</description>
         <item>
-          <title>Sample Coat 001</title>
+          <title>Test tytulu</title>
           <link>http://yourdomain.com/c001.aspx</link>
           <guid>c001</guid>
           <p:imageLink>htto://yourdomain.com/image/c001.jpg</p:imageLink>
           <pubDate>Sun, 20 Apr 2008 00:00:00 GMT</pubDate>
-          <description>High quality wool coat.</description>
+          <description>Opis xdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd</description>
           <category><![CDATA[Coats>Winter Wear]]></category>
           <category><![CDATA[Coats>Cashmere]]></category>
           <p:brand>SampleManufactor1</p:brand>
